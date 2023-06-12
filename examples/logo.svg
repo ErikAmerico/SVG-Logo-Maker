@@ -1,6 +1,6 @@
 <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
              
-    <circle cx="150" cy="100" r="50" fill="gray" /> 
+    <circle cx="150" cy="100" r="50" fill="Gray" /> 
             
-        <text x="150" y="110" text-anchor="middle" fill="blue" font-size="40" font-weight="bold">ABC</text>
+        <text x="150" y="110" text-anchor="middle" fill="Blue" font-size="40" font-weight="bold">ABC</text>
             </svg>
