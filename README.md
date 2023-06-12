@@ -37,6 +37,17 @@ This is the result of the above questions/answers:
     
 ![Alt Text](/assets/SVG-Logo-Screenshot.png)
 
+## Tests
+
+To run the tests for this program:
+
+
+-Right click on the 'shapes.test.js' file.
+
+-Select 'Open in Integrated Terminal'.
+
+-Run the command 'npm test'.
+
 ## Credits
 
 [stackoverflow.com](https://stackoverflow.com)
