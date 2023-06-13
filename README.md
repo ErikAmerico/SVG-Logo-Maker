@@ -11,7 +11,9 @@ To use this Logo-Maker on your local machine, you would have to:
 
 -Clone the repository down from github.
 
--open the terminal and run 'npm install' to install the 'inquirer' and 'jest' packages that are found in the package.json file.
+-Be sure to have node.js installed.
+
+-Open the terminal and run 'npm install' to install the 'inquirer' and 'jest' packages that are found in the package.json file.
 
 ## Usage
 
