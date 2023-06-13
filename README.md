@@ -39,10 +39,15 @@ This is the result of the above questions/answers:
     
 ![Alt Text](/assets/SVG-Logo-Screenshot.png)
 
+## Link to walkthrough video
+
+[Walkthrough video](https://watch.screencastify.com/v/Em8KNNpa1LOdq51amSB6)
+
 ## Tests
 
 To run the tests for this program:
 
+-Navigate to the lib file.
 
 -Right click on the 'shapes.test.js' file.
 
